@@ -47,4 +47,11 @@ The algorithm evaluates all possible moves recursively and assigns scores based 
 2. A player wins if they align 3 of their markers in a row, column, or diagonal.
 3. The game ends in a draw if the grid is full without a winner.
 
+## Contributing
+Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+
 
